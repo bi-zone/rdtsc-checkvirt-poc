@@ -5,4 +5,4 @@ This repository provides POC code for Windows, Linux and macOS. However, it was 
 ## Authors
 This vulnerability was found by Innokentiy Sennovskiy. Special thanks to Alexander Salikov for help with testing and POCs.
 ## Disclaimer
-The papers are not final, they are still in the progress of checking for mistakes.
+The papers are not final, they are still in process of checking for mistakes.
