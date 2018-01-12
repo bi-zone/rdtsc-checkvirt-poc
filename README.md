@@ -1,4 +1,4 @@
-##Synopsis
+## Synopsis
 Hypervisor detection using speculative execution
 ## Contents
 This repository contains papers explaining the new virtualization test attack based on Meltdown. They are not extensive in any way and provide just a limited explanation without diving too deep into details.
